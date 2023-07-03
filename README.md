@@ -1,17 +1,16 @@
 # Hi 👋, I'm [Benjamin GUIGANTON]
 
-After spending 10 years working in shipbuilding in various roles (Assembler, Team Leader, Site Manager, Project Manager, and Business Manager), I have recently embarked on a career change at O'Clock school, with the goal of obtaining the RNCP title for becoming a web developer.
+I grew fascinated with languages such as HTML, CSS, JavaScript, and Python, seeking to explore the extensive possibilities that these languages offer. I embarked on self-learning through free courses on platforms like OpenClassrooms and Codecademy, where a true passion for development took root. I decided to enroll in a program at O'Clock school to turn this passion into a profession.
 
-While I have proficiency in Excel and utilized it for many years, which included gaining in-depth knowledge in VBA programming, my primary focus evolved beyond creating comprehensive shipyard management applications for military shipbuilding projects that required complex data management and program development for data processing and management. Though my Excel and VBA skills were instrumental in successfully accomplishing these projects, it was through this experience that I unearthed my enthusiasm for programming.
+I am creative, motivated, and hardworking. I relish solving problems and do not fear failures as they contribute to our growth.
 
-I grew fascinated with languages such as HTML, CSS, JavaScript, and Python, seeking to explore the extensive possibilities that these languages offer. I embarked on self-learning through free courses on platforms like OpenClassrooms and Codecademy, where a true passion for development took root. Eventually, I decided to enroll in a program at O'Clock school to turn this passion into a profession.
-
-I am creative, motivated, and hardworking. I relish solving problems and do not fear failures as they contribute to our growth. I have always been a team player and value the strength that lies in collaboration.
+"Everyone should learn to program a computer, because it teaches you to think." -- Steve JOBS
 
 ## 📫 How to reach me
 
-- Email: benjamin.guiganton@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/benjamin-guiganton-607123272/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/votre_nom/](https://www.linkedin.com/in/benjamin-guiganton-607123272/))
+- [![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white)]([https://www.facebook.com/votre_nom/](https://www.facebook.com/profile.php?id=100085029788307))
+- [![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:benjamin.guiganton@gmail.com)
 
 ## 🛠️ Languages and Tools
 
