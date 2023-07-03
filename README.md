@@ -8,9 +8,10 @@ I am creative, motivated, and hardworking. I relish solving problems and do not 
 
 ## 📫 How to reach me
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/benjamin-guiganton-607123272/])
-- [![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white)]([https://www.facebook.com/profile.php?id=100085029788307/])
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-guiganton-607123272/)
+- [![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100085029788307/)
 - [![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:benjamin.guiganton@gmail.com)
+
 
 ## 🛠️ Languages and Tools
 
