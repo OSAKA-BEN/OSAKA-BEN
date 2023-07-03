@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Benjamin GUIGANTON]
+# Hi 👋, I'm Benjamin GUIGANTON
 
 I grew fascinated with languages such as HTML, CSS, JavaScript, and Python, seeking to explore the extensive possibilities that these languages offer. I embarked on self-learning through free courses on platforms like OpenClassrooms and Codecademy, where a true passion for development took root. I decided to enroll in a program at O'Clock school to turn this passion into a profession.
 
@@ -9,7 +9,7 @@ I am creative, motivated, and hardworking. I relish solving problems and do not 
 ## 📫 How to reach me
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-guiganton-607123272/)
-- [![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100085029788307/)
+- [![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100085029788307)
 - [![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:benjamin.guiganton@gmail.com)
 
 
