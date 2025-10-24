@@ -4,11 +4,13 @@ I'm a Full-Stack Web Developer with a strong focus on Laravel, React, and automa
 I build modern, scalable applications — from backend architecture to frontend design — and handle the full lifecycle, from development to deployment.
 
 🧠 About Me
+
 I work on both backend and frontend stacks using Laravel, PHP, React, and Next.js.
 As an R&D Specialist, I also create Python scripts and AI-powered tools (OpenAI, YOLO, CLIP) to automate workflows and perform product recognition from images or live streams.
 Finally, I design n8n automations to eliminate repetitive tasks and boost productivity across teams.
 
 🛠️ Tech Stack
+
 - Backend: Laravel, PHP
 - Frontend: React, Next.js, Livewire, Alpine.js
 - Automation & AI: n8n, Python, OpenAI, YOLO, CLIP
@@ -17,6 +19,7 @@ Finally, I design n8n automations to eliminate repetitive tasks and boost produc
 - Other Tools: Node.js, REST APIs, Git
 
 🚀 What I Do
+
 - Develop full-stack web applications with Laravel, React, and Next.js.
 - Manage infrastructure using Docker and VPS for consistent CI/CD environments.
 - Build custom automations and AI workflows with n8n and Python.
